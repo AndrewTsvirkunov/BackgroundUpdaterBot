@@ -15,10 +15,10 @@
 ## Установка
 1. **Клонируйте репозиторий:**
 ```
-git clone 
-cd 
+git clone https://github.com/AndrewTsvirkunov/BackgroundUpdaterBot.git
+cd BackgroundUpdaterBot
 ```
-2. **Создайте виртуальное окружение:**
+2. **Перейдите в папку с репозиторием и создайте виртуальное окружение:**
 ```
 python -m venv venv
 source venv/bin/activate  # для Linux/Mac
